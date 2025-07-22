@@ -11,6 +11,7 @@ configuration:
          codeLines: 1
       bypassUsers:
          - allcontributors[bot]
+         - copilot-swe-agent[bot]
          - dependabot[bot]
          - greenkeeper[bot]
          - dotnet-maestro[bot]
