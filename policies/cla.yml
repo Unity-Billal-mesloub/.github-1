@@ -11,6 +11,10 @@ configuration:
          codeLines: 1
       bypassUsers:
          - allcontributors[bot]
+         - Copilot
+         - Copilot[AI]
+         - copilot-swe-agent
+         - copilot-swe-agent[AI]
          - copilot-swe-agent[bot]
          - dependabot[bot]
          - greenkeeper[bot]
