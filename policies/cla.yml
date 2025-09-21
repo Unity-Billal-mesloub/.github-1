@@ -25,6 +25,7 @@ configuration:
          - content-assistant[bot]
          - reunion-maestro[bot]
          - renovate[bot]
+         - mend[bot]
          - microsoft-github-policy-service[bot]
          - msftbot[bot]
          - azure-pipelines[bot]
